@@ -3,3 +3,11 @@ django-import-export==1.2.0
 django-simpleui
 Pillow
 docutils
+xlrd
+xlwt
+openpyxl
+odfpy
+pyyaml
+pyyaml
+pyMarkupPy
+MarkupPy
