@@ -9,3 +9,5 @@ openpyxl
 odfpy
 pyyaml
 MarkupPy
+
+-e git+git://github.com/jkbr/httpie.git#egg=httpie
