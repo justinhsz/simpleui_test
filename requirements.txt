@@ -8,6 +8,4 @@ xlwt
 openpyxl
 odfpy
 pyyaml
-pyyaml
-pyMarkupPy
 MarkupPy
